@@ -5,9 +5,9 @@
 
 - 👋 Hi, I’m @Nikitagorai
 - 👀 I’m interested in ...HTML,CSS,PHP,RDMS
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...simply email me [ nikitamaum2001@gmail.com ]
 
 <!---
 Nikitagorai/Nikitagorai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
