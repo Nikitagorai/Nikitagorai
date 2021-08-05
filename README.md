@@ -1,3 +1,8 @@
+- 👋 Hi, I’m @[banner.txt](https://github.com/Nikitagorai/Nikitagorai/files/6937790/banner.txt)
+
+
+
+
 
 ![github banner](https://user-images.githubusercontent.com/88390662/128332299-a29c8ba8-2e65-4123-a97f-c88709207f30.png)
 
@@ -7,7 +12,7 @@
 
 
 
-- 👋 Hi, I’m @Nikitagorai
+
 - 👀 I’m interested in ...HTML,CSS,PHP,RDMS
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
