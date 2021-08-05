@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @[banner.txt](https://github.com/Nikitagorai/Nikitagorai/files/6937790/banner.txt)
+- 👋 Hi, I’m @Nikita gorai
 
 
 
