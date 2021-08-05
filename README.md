@@ -1,3 +1,8 @@
+![engineer is making](https://user-images.githubusercontent.com/88390662/128330017-5a50764b-7395-4148-b78b-4649356ecafd.jpg)
+
+
+
+
 - 👋 Hi, I’m @Nikitagorai
 - 👀 I’m interested in ...HTML,CSS,PHP,RDMS
 - 🌱 I’m currently learning ...
