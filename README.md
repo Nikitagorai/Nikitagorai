@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>	
-	<title> 
-	Hey there, thanks for visiting.
-	</title>
-</head>
-<body>
+Hey there, thanks for visiting.
 
 
 
@@ -30,5 +23,3 @@
 Nikitagorai/Nikitagorai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-</body>
-</html>
