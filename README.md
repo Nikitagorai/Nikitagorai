@@ -14,7 +14,7 @@
 
 
 
-- 👋 Hi, I’m @Nikita gorai
+
 - 👀 I’m interested in ...HTML,CSS,PHP,RDMS
 - 🌱 I’m currently learning ...JAVA
 - 💞️ I’m looking to collaborate on ...
