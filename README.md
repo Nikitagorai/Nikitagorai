@@ -17,7 +17,7 @@
 
 - 👀 I’m interested in ...HTML,CSS,PHP,RDMS
 - 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Youtube & Instagram
 - 📫 How to reach me ...simply email me [ nikitagorai95@gmail.com ]
 
 <!---
